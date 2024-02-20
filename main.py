@@ -13,7 +13,7 @@ my_function("pest")
 my_function("mest")
 
 
-
+#Her er en kommentar.. den er ny.. TODO: PUSH IT.
 def summeren(firstNumber, secondNumber):
     return firstNumber+secondNumber
 
